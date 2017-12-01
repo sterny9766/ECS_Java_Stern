@@ -1,0 +1,16 @@
+
+public class MoreVariablesAndPrinting 
+{
+	public static void main( String[] args )
+	{
+		string myName, myEyes, myTeeth, myHair;
+		int myAge, myHeight, myWight;
+		
+		myName ="Zed A. Shaw";
+		myAge = "35";
+		myHeight = "74";
+		myWeight = "180";
+				
+	}
+
+}
