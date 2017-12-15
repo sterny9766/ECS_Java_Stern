@@ -1,9 +1,0 @@
-//comment for my first prog
-//just print out a message to display
-public class FirstProg 
-{
-	public static void main(String[] args)
-	{
-		System.out.println("Hello world from CCA");	
-	}	
-}

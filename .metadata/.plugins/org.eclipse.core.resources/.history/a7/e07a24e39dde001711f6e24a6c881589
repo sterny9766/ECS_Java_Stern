@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class CollatzSequence
+{
+	public static void main( String[] args )
+	{
+		Scanner keyboard = new Scanner(System.in);
+		int number, steps = 0, max = 0;
+		
+		System.out.print( "Starting number: " );
+		number = keyboard.nextInt();
+		do
+		{
+			System.out.print( number);
+			steps++;
+			
+			if ( (number % 2) == 0 )
+				number /= 2;
+			else
+				number = (3 * number) + 1;
+			
+		} while ( number > 1 );
+		
+		System.out.println(number + ",");
+		System.out.print( "Terminated after " + steps + " steps." );
+		
+	}
+}

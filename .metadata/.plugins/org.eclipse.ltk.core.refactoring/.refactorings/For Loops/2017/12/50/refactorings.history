@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;For Loops&apos;&#x0D;&#x0A;- Original project: &apos;For Loops&apos;&#x0D;&#x0A;- Original element: &apos;For Loops/src/FizzBuzz&apos;" description="Delete element" element1="/src&lt;FizzBuzz" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1513193517361" subPackages="false" version="1.0"/>
+</session>
